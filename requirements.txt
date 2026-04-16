@@ -8,3 +8,4 @@ zhipuai
 faiss-cpu
 python-dotenv
 pypdf
+sniffio
